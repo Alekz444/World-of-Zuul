@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rooms
+comment0.text=\r\n\ This\ class\ creates\ and\ stores\ all\ of\ the\ rooms\ in\ the\ game.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ (k-number\:\ 20022789)\r\n\ @version\ 30.11.2020\r\n
+comment1.params=itemsObject\ charactersObject
+comment1.target=Rooms(Items,\ Characters)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rooms\r\n
+comment2.params=
+comment2.target=void\ createRooms()
+comment2.text=\r\n\ Creates\ the\ rooms\ (including\ their\ items\ and\ characters)\ and\ stores\ them\ in\ an\ ArrayList.\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getRoomArrayList()
+comment3.text=\r\n\ Returns\ an\ ArrayList\ of\ the\ rooms\ in\ the\ game.\r\n
+comment4.params=roomName
+comment4.target=Room\ getRoomByName(java.lang.String)
+comment4.text=\r\n\ Returns\ a\ room\ by\ receiving\ its\ name.\r\n\ @param\ roomName\ The\ name\ of\ the\ room\ we\ are\ looking\ for.\r\n\ @return\ room\ The\ room\ we\ are\ looking\ for.\r\n
+numComments=5

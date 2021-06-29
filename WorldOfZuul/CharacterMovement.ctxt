@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CharacterMovement
+comment0.text=\r\n\ This\ class\ is\ responsible\ for\ the\ movement\ of\ all\ characters.\r\n\ It\ utilizes\ an\ object\ of\ class\ Characters\ so\ it\ can\ accesss\ the\r\n\ method\ for\ moving\ the\ characters.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ (k-number\:\ 20022789)\r\n\ @version\ 02.12.2020\r\n
+comment1.params=charactersObject
+comment1.target=CharacterMovement(Characters)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CharacterMovement\r\n
+comment2.params=currentRoom\ previousRoom
+comment2.target=void\ moveCharacters(Room,\ Room)
+comment2.text=\r\n\ Moves\ characters\ from\ one\ room\ to\ another.\r\n\ @param\ currentRoom\ The\ room\ the\ character\ needs\ to\ be\ moved\ to.\r\n\ @param\ previousRoom\ The\ room\ the\ character\ was\ in.\r\n
+numComments=3

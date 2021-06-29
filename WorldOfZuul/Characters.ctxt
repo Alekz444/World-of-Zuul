@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Characters
+comment0.text=\r\n\ This\ class\ creates\ and\ stores\ all\ of\ the\ characters\ in\ the\ game.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ (k-number\:\ 20022789)\r\n\ @version\ 30.11.2020\r\n
+comment1.params=
+comment1.target=Characters()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Characters\r\n
+comment2.params=
+comment2.target=void\ createCharacters()
+comment2.text=\r\n\ Creates\ characters\ and\ adds\ them\ to\ the\ HashSet\ 'characters'.\r\n
+comment3.params=
+comment3.target=java.util.HashSet\ getCharacterHashSet()
+comment3.text=\r\n\ Returns\ the\ HashSet\ 'characters'.\r\n
+comment4.params=characterName
+comment4.target=Character\ getCharacterByName(java.lang.String)
+comment4.text=\r\n\ Returns\ a\ character\ based\ on\ their\ name.\r\n\ @param\ characterName\ The\ name\ of\ the\ character\ we\ are\ looking\ for.\r\n\ @return\ character\ The\ character\ we\ are\ looking\ for.\r\n
+numComments=5

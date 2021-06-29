@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ \ This\ class\ is\ the\ main\ class\ of\ the\ "Zuul\ Rescue"\ application.\ \r\n\ \r\n\ \ To\ play\ this\ game,\ create\ an\ instance\ of\ this\ class\ and\ call\ the\ "play"\r\n\ \ method.\r\n\ \r\n\ \ This\ main\ class\ creates\ and\ initialises\ all\ the\ others\:\ it\ creates\ all\r\n\ \ rooms,\ creates\ the\ parser\ and\ starts\ the\ game.\ \ It\ also\ evaluates\ and\r\n\ \ executes\ the\ commands\ that\ the\ parser\ returns.\r\n\ \r\n\ @author\ \ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes,\ modified\ by\ Alexandra-Maria\ Anastase\ (k-number\:\ 20022789)\r\n\ Anastase\r\n\ @version\ 30.11.2020\ \r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Create\ the\ game\ and\ initialise\ its\ internal\ map.\r\n
+comment2.params=
+comment2.target=void\ createItems()
+comment2.text=\r\n\ Creates\ the\ items\ for\ the\ game.\r\n
+comment3.params=
+comment3.target=void\ createCharacters()
+comment3.text=\r\n\ Creates\ the\ characters\ for\ the\ game.\r\n
+comment4.params=
+comment4.target=void\ createRooms()
+comment4.text=\r\n\ Create\ all\ the\ rooms\ and\ link\ their\ exits\ together.\r\n
+comment5.params=
+comment5.target=void\ play()
+comment5.text=\r\n\ \ Main\ play\ routine.\ \ Loops\ until\ end\ of\ play.\r\n
+comment6.params=command
+comment6.target=boolean\ processCommand(Command)
+comment6.text=\r\n\ Given\ a\ command,\ process\ (that\ is\:\ execute)\ the\ command.\r\n\ @param\ command\ The\ command\ to\ be\ processed.\r\n\ @return\ true\ If\ the\ command\ ends\ the\ game,\ false\ otherwise.\r\n
+numComments=7
