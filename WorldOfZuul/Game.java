@@ -62,6 +62,11 @@ public class Game
             roomTasks, currentRoom, previousRoom, rooms, charactersObject, characterMovement);       
     }
 
+    public static void main(String[] args) {
+        Game game = new Game();
+        game.play();
+    }
+
     /**
      * Creates the items for the game.
      */
